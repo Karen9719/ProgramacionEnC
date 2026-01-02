@@ -64,4 +64,3 @@ práctico integrador final donde se aplican de manera conjunta todos los concept
 Karen Urueña
 Estudiante de Ingeniería Informática y Programadora
 Argentina 🇦🇷
-gcc nombre_del_archivo.c -o programa
