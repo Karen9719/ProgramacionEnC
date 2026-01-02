@@ -60,7 +60,8 @@ práctico integrador final donde se aplican de manera conjunta todos los concept
 ---
 
 ## Autora
-
 Karen Urueña
+
 Estudiante de Ingeniería Informática y Programadora
+
 Argentina 🇦🇷
