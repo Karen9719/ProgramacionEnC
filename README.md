@@ -59,10 +59,9 @@ práctico integrador final donde se aplican de manera conjunta todos los concept
 
 ---
 
-##Autora
+## Autora
 
 Karen Urueña
 Estudiante de Ingeniería Informática y Programadora
 Argentina 🇦🇷
-```bash
 gcc nombre_del_archivo.c -o programa
